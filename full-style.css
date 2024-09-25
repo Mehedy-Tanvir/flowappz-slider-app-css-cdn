@@ -258,8 +258,8 @@
 .flowappz-button-prev {
   position: absolute;
   top: var(--flowappz-navigation-top-offset, 50%);
-  width: calc(var(--flowappz-navigation-size) / 44 * 27);
-  height: var(--flowappz-navigation-size);
+  width: 50px;
+  height: 50px;
   margin-top: calc(0px - (var(--flowappz-navigation-size) / 2));
   z-index: 10;
   cursor: pointer;
